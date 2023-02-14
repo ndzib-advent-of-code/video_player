@@ -1,3 +1,3 @@
 # Result
-![video player ui])(video_player.png)
+![video player ui](video_player.png)
 
